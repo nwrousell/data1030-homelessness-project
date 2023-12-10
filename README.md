@@ -7,7 +7,7 @@ The project is built in Python 3.11.4 and repository organization is as follows:
 2. `figures/` - Stores visualizations; from EDA to model result comparisons  
 3. `results/` - Trained models and comparison results  
 4. `report/` - Report on development pipeline, methodology, and model results.  
-5. `src/` - Contains all of the code. EDA can be found in EDA.ipynb; Autoregression, splitting, preprocessing, and model development can be found in model_development.ipynb; Evaluation and interpretation of model results is in model_evaluation.ipynb.  
+5. `src/` - Contains all of the code. EDA can be found in `EDA.ipynb`; Autoregression, splitting, preprocessing, and model development can be found in `model_development.ipynb`; Evaluation and interpretation of model results is in `model_evaluation.ipynb`  
   
 The key packages used in this project are the following*:
   
